@@ -37,7 +37,7 @@ export default function Hero() {
                             Contact Me
                         </button>
                         <a
-                            href="https://chandan723.github.io/portfolio/resume.pdf"
+                            href="/portfolio/resume.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="px-6 py-3 rounded-full bg-transparent border border-slate-600 text-slate-300 font-medium hover:border-slate-400 hover:text-white transition-colors flex items-center justify-center"
@@ -56,7 +56,7 @@ export default function Hero() {
                 >
                     <div className="relative w-full h-full rounded-lg overflow-hidden">
                         <Image
-                            src="https://chandan723.github.io/portfolio/profile.jpg"
+                            src="/portfolio/profile.jpg"
                             alt="Chandan Kumar Mahato"
                             fill
                             className="object-cover"
